@@ -1,0 +1,14 @@
+[
+    "com.jeffser.Alpaca",
+    "com.konstantintutsch.Lock",
+    "com.mattjakeman.ExtensionManager",
+    "com.stremio.Stremio",
+    "im.bernard.Memorado",
+    "org.freecad.FreeCAD",
+    "org.gnome.Builder",
+    "org.gnome.design.Emblem",
+    "org.gnome.design.IconLibrary",
+    "org.gnome.design.Lorem",
+    "org.polymc.PolyMC",
+    "org.qbittorrent.qBittorrent"
+]
